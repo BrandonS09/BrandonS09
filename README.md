@@ -1,4 +1,10 @@
 ### Hi there
+## Projects I'm working on: 
+
+## Past Projects:  
+  - [Screen Reminder](https://github.com/5tormm/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
+  - [Social Book](https://github.com/5tormm/SocialBook) A simple social media website made with Django
+  - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
 
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
