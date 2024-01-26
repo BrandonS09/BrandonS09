@@ -7,7 +7,7 @@
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
 
 ## Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=5tormm)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=5tormm&show_icons=true)
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
