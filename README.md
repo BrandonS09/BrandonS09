@@ -1,5 +1,4 @@
 # ```<Hello World/>``` 
-## Projects I'm working on: 
 
 ## Past Projects:  
   - [Screen Reminder](https://github.com/5tormm/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
