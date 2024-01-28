@@ -1,5 +1,8 @@
 # ```<Hello World/>``` 
 
+## Current Projects:
+ - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages
+
 ## Past Projects:  
   - [Screen Reminder](https://github.com/5tormm/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
   - [Social Book](https://github.com/5tormm/SocialBook) A simple social media website made with Django
