@@ -1,7 +1,7 @@
 # ```<Hello World/>``` 
 
 ## Current Projects:
-  - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of PNT and used the Iris Database to train the data
+  - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT]((https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the Iris Database to train the data
 
 ## Past Projects:  
   - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages
