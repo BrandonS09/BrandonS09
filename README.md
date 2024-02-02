@@ -1,7 +1,7 @@
 # ```<Hello World, I'm Brandon Shen/>``` 
 
 ## Current Projects:
-  - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the Iris Database to train the data
+  - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
 
 ## Past Projects:  
   - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages
