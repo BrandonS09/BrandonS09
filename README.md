@@ -1,4 +1,4 @@
-# ```<Hello World/>``` 
+# ```<Hello World, I'm Brandon Shen/>``` 
 
 ## Current Projects:
   - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the Iris Database to train the data
