@@ -2,7 +2,7 @@
 
 ## Current Projects:
 - Learning OpenCV
-- Currently Designing a Robot Arm and am planning on adding computer vision to it so that it grabs items which it is instructed to do so
+- Currently designing a Robot Arm and am planning on adding computer vision to it so that it grabs items which it is instructed to do so
 
 ## Past Projects:  
   - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages
