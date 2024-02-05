@@ -2,6 +2,7 @@
 
 ## Current Projects:
 - Learning OpenCV
+- A discord clone built with django
 - Currently designing a Robot Arm and am planning on adding computer vision to it so that it grabs items which it is instructed to do so
 
 ## Past Projects:  
