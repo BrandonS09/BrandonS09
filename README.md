@@ -13,7 +13,7 @@
   - [Social Book](https://github.com/5tormm/SocialBook) A simple social media website made with Django'
 
 ## Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=5tormm&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true)
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
