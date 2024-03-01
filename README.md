@@ -10,7 +10,7 @@
   - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
   - [Screen Reminder](https://github.com/5tormm/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
-  - [Social Book](https://github.com/5tormm/SocialBook) A simple social media website made with Django'
+  - [Social Book](https://github.com/5tormm/SocialBook) A simple social media website made with Django
 
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true)
