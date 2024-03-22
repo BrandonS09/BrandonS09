@@ -3,11 +3,11 @@
 ## Current Projects:
 - Learning OpenCV
 - A discord clone built with django
-- Currently designing a Robot Arm and am planning on adding computer vision to it so that it grabs items which it is instructed to do so
+- Currently designing a Robot Arm which will use computer vision to identify and grab specific items 
 - FRC 199 code
 
 ## Past Projects:  
-  - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages, made with Pytorch
+  - [PNT - Preliminary Neural Network](https://github.com/5tormm/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
   - [Iris Classifier](https://github.com/5tormm/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/5tormm/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
   - [Screen Reminder](https://github.com/5tormm/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
