@@ -3,7 +3,7 @@
 ## Current Projects:
 - Learning OpenCV
 - A discord clone built with django
-- Currently designing a Robot Arm which will use computer vision to identify and grab specific items 
+- Currently designing, fabricating, and programming my own version of DUM-E
 - FRC 199 code
 
 ## Past Projects:  
