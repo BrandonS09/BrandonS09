@@ -20,9 +20,9 @@
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=aura)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=aura)
 
-[![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=aura)
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
