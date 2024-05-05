@@ -15,11 +15,11 @@
   - [Social Book](https://github.com/BrandonS09/SocialBook) A simple social media website made with Django
 
 ## Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=dark)](https://github.com/BrandonS09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=aura)](https://github.com/BrandonS09/github-readme-stats)
 
-[![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=dark)](https://github.com/BrandonS09/github-readme-stats)
+[![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=aura)](https://github.com/BrandonS09/github-readme-stats)
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
