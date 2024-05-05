@@ -14,6 +14,7 @@
   - [React Social Media Website](https://github.com/BrandonS09/ReactSocialMediaWebsite) A very simple social media website that is built with React and Firebase
   - [To Do App](https://github.com/BrandonS09/ToDoApp) A simple to do app that works on android and is built with React Native
   - [Screen Reminder](https://github.com/BrandonS09/ScreenReminder) A desktop app that uses custom tkinter to periodically remind you to take a break from the screen
+  - [Plugins](https://github.com/BrandonS09/Plugins) A collection of spigot plugins which I have written
   - [Social Book](https://github.com/BrandonS09/SocialBook) A simple social media website made with Django
 
 ## Stats:
