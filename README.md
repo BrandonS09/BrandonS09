@@ -18,6 +18,8 @@
   - [Social Book](https://github.com/BrandonS09/SocialBook) A simple social media website made with Django
 
 ## Stats:
+![profile views](https://komarev.com/ghpvc/?username=BrandonS09&color=blue&type=.svg)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=aura)
