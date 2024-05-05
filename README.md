@@ -2,6 +2,7 @@
 
 ## Current Projects:
 - Learning OpenCV
+- Developing a desktop application to help encourage healthy practices in front of the computer
 - A discord clone built with django
 - Currently designing, fabricating, and programming my own version of DUM-E
 - FRC 199 code
