@@ -3,6 +3,7 @@
 ## Current Projects:
 - Learning OpenCV
 - Developing a desktop application to help encourage healthy practices in front of the computer, current code [here](https://github.com/BrandonS09/BHAC)
+- Developing a game engine built on java using lwjgl, current code [here](https://github.com/BrandonS09/JavaEngine)
 - A discord clone built with django
 - Currently designing, fabricating, and programming my own version of DUM-E
 - FRC 199 code
