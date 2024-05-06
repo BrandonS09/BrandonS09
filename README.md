@@ -6,7 +6,6 @@
 - Developing a game engine built on java using lwjgl, current code [here](https://github.com/BrandonS09/JavaEngine)
 - A study discussions app built with django, current code [here](https://github.com/BrandonS09/studybud)
 - Currently designing, fabricating, and programming my own version of DUM-E
-- FRC 199 code
 
 ## Past Projects:  
   - [PNT - Preliminary Neural Network](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
