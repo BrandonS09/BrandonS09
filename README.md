@@ -2,12 +2,12 @@
 
 ## Current Projects:
 - Learning OpenCV
-- Developing a desktop application to help encourage healthy practices in front of the computer, current code [here](https://github.com/BrandonS09/BHAC)
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - A study discussions app built with Django, current code [here](https://github.com/BrandonS09/studybud)
 - Currently designing, fabricating, wiring, and programming my own version of DUM-E
 
 ## Past Projects:  
+  - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
   - [PNT - Preliminary Neural Network](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
   - [Iris Classifier](https://github.com/BrandonS09/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
