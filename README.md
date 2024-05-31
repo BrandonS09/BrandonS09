@@ -4,7 +4,7 @@
 - Learning OpenCV
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - A study discussions app built with Django, current code [here](https://github.com/BrandonS09/studybud)
-- Currently designing, fabricating, wiring, and programming my own version of DUM-E
+- Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
 
 ## Past Projects:  
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
