@@ -1,7 +1,7 @@
 # ```<Hello World, I'm Brandon Shen/>``` 
 
 ## Current Projects:
-- Contributing to numerous open-source projects
+- Contributing to numerous open-source projects, ex. mattermost
 - Learning OpenCV
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - A study discussions app built with Django, current code [here](https://github.com/BrandonS09/studybud)
