@@ -2,8 +2,8 @@
 
 ## Current Projects:
 - Contributing to numerous open-source projects
-- Learning OpenCV
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
+- Learning OpenCV
 - A study discussions app built with Django, current code [here](https://github.com/BrandonS09/studybud)
 - Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
 
