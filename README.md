@@ -4,7 +4,6 @@
 - Contributing to numerous open-source projects
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - Learning OpenCV
-- A study discussions app built with Django, current code [here](https://github.com/BrandonS09/studybud)
 - Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
 
 ## Past Projects:  
@@ -16,7 +15,7 @@
   - [To Do App](https://github.com/BrandonS09/ToDoApp) A simple to-do app that works on Android and IOS and is built with React Native
   - [Screen Reminder](https://github.com/BrandonS09/ScreenReminder) A desktop app that uses custom-tkinter to periodically remind you to take a break from the screen
   - [Plugins](https://github.com/BrandonS09/Plugins) A collection of spigot plugins that I have written
-  - [Social Book](https://github.com/BrandonS09/SocialBook) A simple social media website made with Django
+  - [StudyBud](https://github.com/BrandonS09/studybud) A webapp that hosts study discussions, built with Django
 
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
