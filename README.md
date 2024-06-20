@@ -2,7 +2,7 @@
 
 ## Current Projects:
 - Developing my own portfolio website, code can be found [here](https://github.com/BrandonS09/BrandonS09.github.io) and an EARLY version of the site can be found [here](https://brandons09.github.io/)
-- Contributing to numerous open-source projects
+- Contributing to numerous open-source projects, ex. mattermost
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - Learning OpenCV
 - Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
