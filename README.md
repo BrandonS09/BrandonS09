@@ -8,6 +8,7 @@
 - Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
 
 ## Past Projects:  
+  - [F1 Maps](https://github.com/BrandonS09/f1maps) Built for the final project of FCPS at CTY, a google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
   - [PNT - Preliminary Neural Network](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
   - [Iris Classifier](https://github.com/BrandonS09/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
