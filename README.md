@@ -1,7 +1,6 @@
 # ```<Hello World, I'm Brandon Shen/>``` 
 
 ## Current Projects:
-- Developing my own portfolio website, code can be found [here](https://github.com/BrandonS09/BrandonS09.github.io) and an EARLY version of the site can be found [here](https://brandons09.github.io/)
 - Contributing to numerous open-source projects, ex. mattermost
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - Learning OpenCV
@@ -10,6 +9,7 @@
 ## Past Projects:  
   - [F1 Maps](https://github.com/BrandonS09/f1maps) A cross-platform google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
+  - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
   - [PNT - Preliminary Neural Network](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
   - [Iris Classifier](https://github.com/BrandonS09/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
