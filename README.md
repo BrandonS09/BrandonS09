@@ -4,7 +4,7 @@
 - Contributing to numerous open-source projects, ex. mattermost
 - Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
 - Learning OpenCV
-- Currently designing, fabricating, wiring, and programming an intelligent robot arm called LISA, status can be found [here](https://github.com/BrandonS09/LISA)
+- Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/LISA)
 
 ## Past Projects:  
   - [F1 Maps](https://github.com/BrandonS09/f1maps) A cross-platform google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
