@@ -27,6 +27,8 @@
 
 ![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=aura)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BrandonS09&theme=radical"/></a>
+
 ![profile views](https://komarev.com/ghpvc/?username=BrandonS09&color=blue&type=.svg)
 <!--
 **5tormm/5tormm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
