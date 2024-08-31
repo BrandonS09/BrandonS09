@@ -22,43 +22,22 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.1 kB Used in GitHub's Storage 
  > 
-> 🏆 587 Contributions in the Year 2024
+> 🏆 589 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌆 Daytime                379 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌃 Evening                642 commits         ███████████░░░░░░░░░░░░░░   44.71 % 
-🌙 Night                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Wednesday                403 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Friday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Saturday                 271 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Sunday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -72,31 +51,16 @@ Git                      0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  45 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-insightly                45 mins             █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Windows                  45 mins             █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/BrandonS09/BrandonS09/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 20:10:38 UTC
+ Last Updated on 31/08/2024 21:23:40 UTC
 <!--END_SECTION:waka-->
 <!--
 ## Stats:
