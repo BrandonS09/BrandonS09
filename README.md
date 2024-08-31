@@ -1,8 +1,10 @@
 # 💫 About Me:
 Hi There👋 I'm Brandon Shen<br/>
-🤖Robotics Engineer <br/>
-💻Software Engineering Enthusiast <br/>
-🖱️Mechanical Engineering Enthusiast <be>
+🤖 Robotics Engineer <br/>
+💻 Software Engineer <br/>
+🖱️ Mechanical Engineering Enthusiast <br/>
+🔐 Learning Cybersecurity <br/>
+🖥️ Learning Machine Learning <br/>
 
 
 ## 🌐 Socials:
@@ -17,6 +19,9 @@ Hi There👋 I'm Brandon Shen<br/>
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
   - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
+# 📈Waka:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrandonS09&theme=radical&hide_border=false)<br/>
