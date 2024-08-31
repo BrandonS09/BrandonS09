@@ -22,12 +22,14 @@
   - [Plugins](https://github.com/BrandonS09/Plugins) A collection of spigot plugins that I have written
   - [StudyBud](https://github.com/BrandonS09/studybud) A webapp that hosts study discussions, built with Django
 
+## Waka:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonS09&layout=donut-vertical&theme=aura)
-
-![Brandon's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonS09&theme=aura)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BrandonS09&theme=radical"/></a>
 
