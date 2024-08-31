@@ -22,7 +22,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@
 
 > 📦 95.1 kB Used in GitHub's Storage 
  > 
-> 🏆 589 Contributions in the Year 2024
+> 🏆 597 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -55,12 +55,8 @@ VS Code                  45 mins             ███████████�
 Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/BrandonS09/BrandonS09/main/assets/bar_graph.png)
-
-
- Last Updated on 31/08/2024 21:23:40 UTC
+ Last Updated on 31/08/2024 21:40:34 UTC
 <!--END_SECTION:waka-->
 <!--
 ## Stats:
