@@ -22,52 +22,81 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2052%20mins-blue)
 
-<!--END_SECTION:waka-->
-# 📊 GitHub Stats:
-![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrandonS09&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-nine-ashy.vercel.app/api/top-langs/?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BrandonS09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**🐱 My GitHub Data** 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BrandonS09&limit=5&theme=radical&combine_all_yearly_contributions=true)
+> 📦 95.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 587 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
----
-![profile views](https://komarev.com/ghpvc/?username=BrandonS09&color=blue&type=.svg)
+```text
+🌞 Morning                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌆 Daytime                379 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+🌃 Evening                642 commits         ███████████░░░░░░░░░░░░░░   44.71 % 
+🌙 Night                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+```
+📅 **I'm Most Productive on Wednesday** 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+Monday                   193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Wednesday                403 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Friday                   124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Saturday                 271 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Sunday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-# ```<Hello World, I'm Brandon Shen/>``` 
 
-## Current Projects:
-- Contributing to numerous open-source projects, ex. mattermost
-- Developing a game engine built on Java using LWJGL, current code [here](https://github.com/BrandonS09/JavaEngine)
-- Learning OpenCV
-- Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
-- An event hosting and joining website where users can create, host, or join events and receive emails sent out by the hosts for further details, being built with Django and React utilizing REST APIs, current code [here](https://github.com/BrandonS09/Event-Host-Join-Website)
-- Working on a closed-source log processor to help speed up the debugging process
-- [Feedbackflux](https://feedbackflux.vercel.app) a simple little feedbackboard app that is still in development(all data will be wiped upon 1.0)
+📊 **This Week I Spent My Time On** 
 
-## Past Projects:  
-  - [F1 Maps](https://github.com/BrandonS09/f1maps) A cross-platform google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
-  - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
-  - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
-  - [PNT - Preliminary Neural Network](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) A simple neural network that isn't too advanced and is still very much in its preliminary stages. Built with Pytorch
-  - [Iris Classifier](https://github.com/BrandonS09/IrisClassifier) A simple Iris Classifier that is built on top of [PNT](https://github.com/BrandonS09/PNT-Preliminary-Neural-Network) and used the [Iris Dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) to train the data
-  - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
-  - [React Social Media Website](https://github.com/BrandonS09/ReactSocialMediaWebsite) A very simple social media website that is built with React and Firebase
-  - [To Do App](https://github.com/BrandonS09/ToDoApp) A simple to-do app that works on Android and IOS and is built with React Native
-  - [Screen Reminder](https://github.com/BrandonS09/ScreenReminder) A desktop app that uses custom-tkinter to periodically remind you to take a break from the screen
-  - [Plugins](https://github.com/BrandonS09/Plugins) A collection of spigot plugins that I have written
-  - [StudyBud](https://github.com/BrandonS09/studybud) A webapp that hosts study discussions, built with Django
+```text
+🕑︎ Time Zone: America/Los_Angeles
 
-## Waka:
-<!--START_SECTION:waka-->
+💬 Programming Languages: 
+Svelte                   45 mins             █████████████████████████   98.40 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🔥 Editors: 
+VS Code                  45 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+insightly                45 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  45 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Svelte                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/BrandonS09/BrandonS09/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/08/2024 20:10:38 UTC
 <!--END_SECTION:waka-->
 <!--
 ## Stats:
