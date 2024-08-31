@@ -1,5 +1,5 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&width=650&lines=Hi+There+%F0%9F%91%8B+Im+Brandon+Shen)](https://git.io/typing-svg)
 # 💫 About Me:
-Hi There👋 I'm Brandon Shen<br/>
 🤖 Robotics Engineer <br/>
 💻 Software Engineer <br/>
 🖱️ Mechanical Engineering Enthusiast <br/>
