@@ -18,6 +18,7 @@
   - [F1 Maps](https://github.com/BrandonS09/f1maps) A cross-platform google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
   - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
+  - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
