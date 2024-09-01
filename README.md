@@ -58,6 +58,19 @@ Windows                  45 mins             ███████████�
 
  Last Updated on 31/08/2024 21:40:34 UTC
 <!--END_SECTION:waka-->
+# 📊 GitHub Stats:
+![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrandonS09&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-nine-ashy.vercel.app/api/top-langs/?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BrandonS09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BrandonS09&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+![profile views](https://komarev.com/ghpvc/?username=BrandonS09&color=blue&type=.svg)
 <!--
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
