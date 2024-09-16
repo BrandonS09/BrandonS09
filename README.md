@@ -23,15 +23,15 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 114.8 kB Used in GitHub's Storage 
+> 📦 115.1 kB Used in GitHub's Storage 
  > 
-> 🏆 648 Contributions in the Year 2024
+> 🏆 674 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,18 +45,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Text                     3 mins              ██████████████████░░░░░░░   72.69 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Python                   47 mins             ██████████████░░░░░░░░░░░   57.40 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+YAML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/15/24 18:50:57 UTC
+ Last Updated on 09/16/24 18:53:54 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
