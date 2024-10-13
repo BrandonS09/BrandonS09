@@ -2,7 +2,7 @@
 # 💫 About Me:
 🤖 Robotics Engineer <br/>
 💻 Software Engineer <br/>
-🖱️ Mechanical Engineering Enthusiast <br/>
+🖱️ Mechanical Engineer <br/>
 🔐 Learning Cybersecurity <br/>
 🖥️ Learning Machine Learning <br/>
 
