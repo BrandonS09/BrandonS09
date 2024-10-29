@@ -24,15 +24,15 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.5 kB Used in GitHub's Storage 
+> 📦 131.7 kB Used in GitHub's Storage 
  > 
-> 🏆 727 Contributions in the Year 2024
+> 🏆 731 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,17 +46,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 1 min          ██████████████████████░░░   86.48 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/28/24 18:55:38 UTC
+ Last Updated on 10/29/24 18:57:21 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
