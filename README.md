@@ -24,13 +24,13 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.7 kB Used in GitHub's Storage 
+> 📦 132.1 kB Used in GitHub's Storage 
  > 
 > 🏆 739 Contributions in the Year 2024
  > 
@@ -46,21 +46,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   6 hrs 4 mins        ████████████████████████░   95.13 % 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Python                   6 hrs 7 mins        ███████████████████████░░   93.39 % 
+Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/24 18:53:19 UTC
+ Last Updated on 11/04/24 18:54:23 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
