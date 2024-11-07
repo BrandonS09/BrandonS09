@@ -24,15 +24,15 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.1 kB Used in GitHub's Storage 
+> 📦 132.2 kB Used in GitHub's Storage 
  > 
-> 🏆 740 Contributions in the Year 2024
+> 🏆 742 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +46,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 21 mins       ████████████████████████░   96.70 % 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   4 hrs 26 mins       ████████████████████████░   96.79 % 
+Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/24 18:55:21 UTC
+ Last Updated on 11/07/24 18:54:26 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
