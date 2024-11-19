@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2036%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.6 kB Used in GitHub's Storage 
+> 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 762 Contributions in the Year 2024
+> 🏆 766 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +59,7 @@ Windows                  3 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 11/18/24 18:59:24 UTC
+ Last Updated on 11/19/24 18:57:23 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
