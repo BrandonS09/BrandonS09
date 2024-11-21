@@ -24,7 +24,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@
 
 > 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 766 Contributions in the Year 2024
+> 🏆 767 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,20 +46,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Svelte                   3 hrs 35 mins       █████████████████████████   98.57 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Svelte                   3 hrs 35 mins       ███████████████████████░░   91.18 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/20/24 18:57:44 UTC
+ Last Updated on 11/21/24 18:57:30 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
