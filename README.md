@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 156.2 kB Used in GitHub's Storage 
+> 📦 156.4 kB Used in GitHub's Storage 
  > 
 > 🏆 786 Contributions in the Year 2024
  > 
@@ -46,21 +46,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   5 hrs 25 mins       ██████████████░░░░░░░░░░░   54.25 % 
-Svelte                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-JavaScript               1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python                   5 hrs 25 mins       █████████████████░░░░░░░░   69.36 % 
+JavaScript               1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/24/24 18:56:06 UTC
+ Last Updated on 11/25/24 18:57:36 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
