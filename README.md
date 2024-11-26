@@ -24,7 +24,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
@@ -32,7 +32,7 @@
 
 > 📦 156.4 kB Used in GitHub's Storage 
  > 
-> 🏆 786 Contributions in the Year 2024
+> 🏆 785 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +46,23 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   5 hrs 25 mins       █████████████████░░░░░░░░   69.36 % 
-JavaScript               1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   5 hrs 25 mins       ███████████████░░░░░░░░░░   58.50 % 
+JavaScript               1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Java                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 43 mins       ████████████████████████░   94.16 % 
+Eclipse                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/25/24 18:57:36 UTC
+ Last Updated on 11/26/24 18:57:56 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
