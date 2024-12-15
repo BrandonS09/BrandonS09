@@ -24,7 +24,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -46,20 +46,22 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   3 hrs               ███████████████████████░░   91.82 % 
-CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   3 hrs               ████████████████████░░░░░   78.82 % 
+Java                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 5 mins        ████████████████████████░   94.64 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Cursor                   3 hrs 5 mins        ████████████████████░░░░░   81.24 % 
+Eclipse                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/14/24 18:56:30 UTC
+ Last Updated on 12/15/24 18:56:42 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
