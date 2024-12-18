@@ -76,8 +76,10 @@ Windows                  6 hrs 55 mins       ███████████�
 
 ---
 ![profile views](https://komarev.com/ghpvc/?username=BrandonS09&color=blue&type=.svg)
+<!--
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BrandonShen) 
+!-->
 <!--
 ## Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonS09&show_icons=true&theme=aura)
