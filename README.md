@@ -23,15 +23,15 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 157.4 kB Used in GitHub's Storage 
+> 📦 170.1 kB Used in GitHub's Storage 
  > 
-> 🏆 827 Contributions in the Year 2024
+> 🏆 834 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,19 +45,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               1 hr 37 mins        █████████████████████████   99.90 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               3 hrs 29 mins       █████████████████████████   99.44 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ████████████████████░░░░░   79.35 % 
-Cursor                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+VS Code                  3 hrs 10 mins       ███████████████████████░░   90.45 % 
+Cursor                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/24/24 18:54:13 UTC
+ Last Updated on 12/25/24 18:55:19 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
