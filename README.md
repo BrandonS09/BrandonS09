@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 170.1 kB Used in GitHub's Storage 
+> 📦 170.3 kB Used in GitHub's Storage 
  > 
 > 🏆 835 Contributions in the Year 2024
  > 
@@ -45,19 +45,19 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               2 hrs 48 mins       █████████████████████████   99.36 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               1 hr 52 mins        █████████████████████████   99.04 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/29/24 18:51:58 UTC
+ Last Updated on 12/30/24 18:55:09 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
