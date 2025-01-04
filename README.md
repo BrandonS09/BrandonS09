@@ -23,7 +23,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -45,19 +45,20 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               3 hrs               ████████████████████████░   96.96 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript               3 hrs               ███████████████████████░░   91.23 % 
+TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/25 18:55:58 UTC
+ Last Updated on 01/04/25 18:54:47 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
