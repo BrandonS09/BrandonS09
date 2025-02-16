@@ -31,8 +31,6 @@
 
 > 📦 172.1 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -55,7 +53,7 @@ Windows                  5 mins              ███████████�
 ```
 
 
- Last Updated on 02/15/25 18:51:15 UTC
+ Last Updated on 02/16/25 18:53:48 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
