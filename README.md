@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.3 kB Used in GitHub's Storage 
+> 📦 170.5 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -56,7 +56,7 @@ Windows                  51 mins             ███████████�
 ```
 
 
- Last Updated on 03/02/25 18:54:33 UTC
+ Last Updated on 03/03/25 18:56:52 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
