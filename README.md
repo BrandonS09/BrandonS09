@@ -14,7 +14,7 @@
 !-->
 # ⚡ Notable Projects
   - [SearchVision](https://github.com/BrandonS09/SearchVision) a software that streamlines the creation of computer vision models by using search to get data and train on data. Still in progress.
-  - [Feedbackflux](https://feedbackflux.vercel.app) a simple little feedbackboard app that is still in development(all data will be wiped upon 1.0), Built with Sveltekit, Apwrite, Stripe
+  - [Feedbackflux](https://feedbackflux.vercel.app) a simple feedback board app that allows users to give feedback, ask questions, etc, and for businesses to show plans through roadmaps, Built with Sveltekit, Apwrite, Stripe
   - [F1 Maps](https://github.com/BrandonS09/f1maps) A cross-platform google maps clone that is f1 skinned featuring the f1 cast of cars and drivers with other f1 themed goodies. Built with React Native, Google Maps API, and Expo
   - [BHAC(Body Health Associated with Computers)](https://github.com/BrandonS09/BHAC) A desktop application to help encourage healthy practices in front of the computer
   - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
