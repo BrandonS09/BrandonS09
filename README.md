@@ -23,15 +23,13 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 172.8 kB Used in GitHub's Storage 
- > 
-> 🏆 59 Contributions in the Year 2025
+> 📦 173.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -45,18 +43,20 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         █████████████████████████   98.91 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Svelte                   1 hr 25 mins        ██████████████░░░░░░░░░░░   57.11 % 
+TypeScript               1 hr 3 mins         ███████████░░░░░░░░░░░░░░   42.42 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Cursor                   1 hr 3 mins         █████████████████████████   100.00 % 
+Cursor                   2 hrs 14 mins       ███████████████████████░░   90.28 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/25 19:03:41 UTC
+ Last Updated on 06/05/25 18:55:32 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
