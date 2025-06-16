@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.0 kB Used in GitHub's Storage 
+> 📦 171.2 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2025
+> 🏆 106 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -45,22 +45,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               5 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.19 % 
-Python                   3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JavaScript               4 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.91 % 
+Python                   3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+CSS                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      9 hrs 46 mins       ███████████████████████░░   92.91 % 
-Windows                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+WSL                      8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/15/25 19:01:23 UTC
+ Last Updated on 06/16/25 19:06:37 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
