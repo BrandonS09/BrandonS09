@@ -29,7 +29,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 171.3 kB Used in GitHub's Storage 
+> 📦 170.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -37,23 +39,8 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 07/25/25 19:09:56 UTC
+ Last Updated on 07/28/25 19:10:50 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
