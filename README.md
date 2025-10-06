@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 171.4 kB Used in GitHub's Storage 
+> 📦 170.5 kB Used in GitHub's Storage 
  > 
 > 🏆 105 Contributions in the Year 2025
  > 
@@ -55,7 +55,7 @@ Windows                  41 mins             ███████████�
 ```
 
 
- Last Updated on 10/05/25 18:43:32 UTC
+ Last Updated on 10/06/25 18:48:51 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
