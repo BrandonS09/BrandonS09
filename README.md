@@ -23,7 +23,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
@@ -45,17 +45,19 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     45 mins             █████████████████████████   99.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   98.71 % 
+Eclipse                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/21/25 18:49:54 UTC
+ Last Updated on 10/22/25 18:50:53 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
