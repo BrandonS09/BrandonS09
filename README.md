@@ -23,7 +23,7 @@
   - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.56%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,7 +31,7 @@
 
 > 📦 191.9 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -45,19 +45,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Bash                     24 mins             ██████████████████████░░░   89.33 % 
-Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Bash                     31 mins             ████████████████████░░░░░   81.40 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Java                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/26 19:09:34 UTC
+ Last Updated on 03/07/26 18:56:24 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
