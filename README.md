@@ -20,7 +20,6 @@
   - [Portfolio Website](https://github.com/BrandonS09/BrandonS09.github.io) My personal website, the deployed version can be found [here](https://brandons09.github.io/)
   - [The Food Amendment](https://github.com/nishantj2006/excersisehackathon) A website that uses the OpenAI API to curate a meal plan to help you achieve your weight goals. Built with React, and Firebase.
   - [Log Processor](https://log-processor.vercel.app/) A website that accepts a log file and then looks for certain job ids and patterns to spit out a refined log. Built with React, Django, and Vite. Source code [here](https://github.com/BrandonS09/LogProcessor)
-  - Currently designing, fabricating, wiring, and programming an intelligent six-axis robotic arm, status can be found [here](https://github.com/BrandonS09/Intelligent-Robot-Arm)
 # 📈Waka:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2034%20mins-blue?style=flat)
