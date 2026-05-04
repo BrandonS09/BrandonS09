@@ -22,15 +22,15 @@
   - [Log Processor](https://log-processor.vercel.app/) A website that accepts a log file and then looks for certain job ids and patterns to spit out a refined log. Built with React, Django, and Vite. Source code [here](https://github.com/BrandonS09/LogProcessor)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 201.2 kB Used in GitHub's Storage 
+> 📦 833.4 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,19 +44,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     44 mins             ████████████████████████░   96.24 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown                 52 mins             ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Java                     44 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+YAML                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/26 19:32:59 UTC
+ Last Updated on 05/04/26 20:02:16 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
