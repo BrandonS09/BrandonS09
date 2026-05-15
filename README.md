@@ -22,8 +22,6 @@
   - [Log Processor](https://log-processor.vercel.app/) A website that accepts a log file and then looks for certain job ids and patterns to spit out a refined log. Built with React, Django, and Vite. Source code [here](https://github.com/BrandonS09/LogProcessor)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2039%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.70%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -38,25 +36,8 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Java                     23 mins             ███████████████░░░░░░░░░░   60.99 % 
-TypeScript               7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Other                    7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-
-🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 05/14/26 20:13:30 UTC
+ Last Updated on 05/15/26 20:00:28 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
