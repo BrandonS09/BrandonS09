@@ -36,8 +36,25 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/21/26 20:19:28 UTC
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+TeX                      2 mins              █████████████████░░░░░░░░   66.39 % 
+YAML                     1 min               ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+
+🔥 Editors: 
+VS Code                  4 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/22/26 20:18:27 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
