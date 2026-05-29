@@ -22,13 +22,15 @@
   - [Log Processor](https://log-processor.vercel.app/) A website that accepts a log file and then looks for certain job ids and patterns to spit out a refined log. Built with React, Django, and Vite. Source code [here](https://github.com/BrandonS09/LogProcessor)
 # 📈Waka:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 834.9 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 169 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,8 +38,26 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/28/26 20:42:31 UTC
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Java                     35 mins             ██████████████░░░░░░░░░░░   55.71 % 
+TypeScript               20 mins             ████████░░░░░░░░░░░░░░░░░   32.18 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+🔥 Editors: 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 05/29/26 20:42:39 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
