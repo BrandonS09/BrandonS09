@@ -44,21 +44,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-TypeScript               1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.42 % 
-CSS                      42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java                     2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+TypeScript               1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
+CSS                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/01/26 21:48:25 UTC
+ Last Updated on 06/02/26 21:30:01 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
