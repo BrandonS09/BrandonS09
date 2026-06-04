@@ -22,7 +22,7 @@
   - [Log Processor](https://log-processor.vercel.app/) A website that accepts a log file and then looks for certain job ids and patterns to spit out a refined log. Built with React, Django, and Vite. Source code [here](https://github.com/BrandonS09/LogProcessor)
 # 📈Waka:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.71%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,21 +44,21 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-TypeScript               1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
-CSS                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java                     1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.52 % 
+TypeScript               1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.25 % 
+CSS                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/26 21:35:13 UTC
+ Last Updated on 06/04/26 20:31:41 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
