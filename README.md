@@ -44,21 +44,18 @@
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.33 % 
-TypeScript               1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.07 % 
-CSS                      44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               7 mins              ██████████████████░░░░░░░   71.09 % 
+CSS                      3 mins              ███████░░░░░░░░░░░░░░░░░░   28.91 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/26 20:23:19 UTC
+ Last Updated on 06/06/26 19:53:04 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-nine-ashy.vercel.app/api?username=BrandonS09&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
