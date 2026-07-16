@@ -3,7 +3,6 @@
 🤖 Robotics Engineer <br/>
 💻 Software Engineer <br/>
 🖱️ Mechanical Engineer <br/>
-🖥️ Learning Machine Learning <br/>
 
 
 ## 🌐 Socials:
